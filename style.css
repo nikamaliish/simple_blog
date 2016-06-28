@@ -1,0 +1,40 @@
+html,
+body {
+    margin: 0;
+    padding: 0;
+}
+
+footer {
+    text-align: center;
+}
+
+article {
+    margin-bottom: 25px;
+}
+
+.container {
+    width: 100%;
+}
+
+.admin-table {
+    border: solid black 1px;
+    collapse: collapse;
+    width: 95%
+}
+
+.admin-table th,
+.admin-table td {
+    border: solid black 1px;
+    padding: 5px
+}
+
+label {
+    width: 100%;
+}
+.form-item {
+    width: 100%;
+}
+
+textarea.form-item {
+    height: 200px;
+}
